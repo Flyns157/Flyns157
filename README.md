@@ -1,17 +1,54 @@
-# Cuisset Mattéo, étudiant de 19 ans en BUT Informatique
-<br>
-<p align="left" dir="auto"> Je suis actuellement à la recherche d'une alternance pour Janvier 2024 pour une durée de 18 mois.</p>
-<p align="left" dir="auto"> J'ajoute sur ce github : </p>
-<p align="left" dir="auto">   - Mes projets scolaires</p>
-<p align="left" dir="auto">   - Mes projets personnels</p>
-<h2 align="left" id="user-content-contactez-moi-" dir="auto"><a class="heading-link" href="#contactez-moi-">Contactez moi :<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
-<p align="left" dir="auto">
-  
-<a href="www.linkedin.com/in/mattéo-cuisset-33b745295" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mattéo-cuisset" height="30" width="40" style="max-width: 100%;"></a>
-</p>
-<h2 align="left" id="user-content-langages-et-outils-" dir="auto"><a class="heading-link" href="#langages-et-outils-">Langages et Outils :<svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></h2>
-<p align="left" dir="auto"> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.java.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
-<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/122434335/282521912-1b8f5833-c0f8-4a4f-afab-8953a65eab68.png"><img src="https://user-images.githubusercontent.com/122434335/282521912-1b8f5833-c0f8-4a4f-afab-8953a65eab68.png" alt="laravel" width="40" height="40" style="max-width: 100%;"></a> 
-<a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/122434335/282521379-2e199ed4-3131-4827-9954-7f251ae64dd3.png" spellcheck="false"><img src="https://user-images.githubusercontent.com/122434335/282521379-2e199ed4-3131-4827-9954-7f251ae64dd3.png" alt="php" width="50" height="40" style="max-width: 100%;"></a>  </p>
+Bonjour, je suis Edge Copilot, votre assistant virtuel pour vous aider à écrire le contenu de ce fichier. Voici un exemple de contenu que vous pouvez utiliser :
 
-<br>
+# Mattéo Cuisset, étudiant de 19 ans en BUT Informatique
+
+Je suis actuellement à la recherche d'une alternance pour Janvier 2024 pour une durée de 18 mois.
+
+J'aime apprendre de nouvelles technologies et réaliser des projets innovants. Je suis passionné par le développement web, le machine learning et l'intelligence artificielle.
+
+Sur ce github, vous trouverez :
+
+- Mes projets scolaires réalisés en Java, Python, PHP, Laravel, HTML, CSS, MySQL, PostgreSQL, etc.
+- Mes projets personnels que je fais pour me former et me divertir.
+
+## Contactez moi :
+
+Vous pouvez me contacter par email à l'adresse matteo.cuisset@etu.univ-orleans.fr ou via mon [![Linkedin Badge](https://img.shields.io/badge/ekotristiyadi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mattéo-cuisset-33b745295).
+
+## Langages et Outils :
+
+Voici quelques-uns des langages et outils que je maîtrise ou que j'apprends :
+
+- CSS : un langage de style pour mettre en forme les pages web.
+- Git : un logiciel de gestion de versions décentralisé qui permet de collaborer sur des projets de code.
+- HTML : un langage de balisage pour structurer les pages web.
+- Java : un langage de programmation orienté objet, polyvalent et performant.
+- Linux : un système d'exploitation libre et open source, basé sur le noyau Unix.
+- MySQL : un système de gestion de bases de données relationnelles, très utilisé pour le web.
+- PostgreSQL : un système de gestion de bases de données relationnelles, robuste et extensible.
+- Python : un langage de programmation interprété, facile à apprendre et à utiliser, avec de nombreuses bibliothèques pour le web, le machine learning, etc.
+- Laravel : un framework PHP, élégant et expressif, qui facilite le développement web.
+- PHP : un langage de programmation côté serveur, populaire et puissant, pour créer des sites web dynamiques
+
+Bien sûr, voici comment vous pouvez ajouter des icônes pour chaque langage de programmation dans votre fichier README :
+
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/-java-red?style=flat-square&logo=java)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Derby](https://img.shields.io/badge/-DerbyJS-e53935?style=flat-square&logo=derby)
+![SCSS](https://img.shields.io/badge/-SCSS-blue?style=flat-square&logo=sass)
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=flyns157&show_icons=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyns157&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=flyns157)
