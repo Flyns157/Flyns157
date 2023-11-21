@@ -1,4 +1,7 @@
-# Mattéo Cuisset, étudiant de 19 ans en BUT Informatique
+<h1 align='center'># Mattéo Cuisset<br>Étudiant de 19 ans en BUT Informatique</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=%C3%89tudiant+d%C3%A9veloppeur+fullstack)](https://git.io/typing-svg)
+
 
 Je suis actuellement à la recherche d'une alternance pour Janvier 2024 pour une durée de 18 mois.
 
@@ -9,7 +12,7 @@ Sur ce github, vous trouverez :
 - Mes projets scolaires réalisés en Java, Python, PHP, Laravel, HTML, CSS, MySQL, PostgreSQL, etc.
 - Mes projets personnels que je fais pour me former et me divertir.
 
-## Contactez moi :
+## 💬 Me contactez :
 
 Vous pouvez me contacter par email à l'adresse matteo.cuisset@gmail.com ou via mon [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mattéo-cuisset-33b745295).
 
