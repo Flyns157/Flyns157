@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&random=true&width=450&lines=%C3%89tudiant+d%C3%A9veloppeur+fullstack" alt="Typing SVG" /></a>
 </h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=1000&color=F70000&background=FFEB00&center=true&vCenter=true&random=true&width=1100&lines=Actuellement+%C3%A0+la+recherche+d'une+alternance+pour+Janvier+2024+d'une+dur%C3%A9e+de+10+%C3%A0+18+mois." alt="Typing SVG" /></a>
+<a href="www.linkedin.com/in/mattéo-cuisset"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=5000&color=F70000&background=FFEB00&center=true&vCenter=true&random=true&width=1100&lines=Actuellement+%C3%A0+la+recherche+d'une+alternance+pour+Janvier+2024+d'une+dur%C3%A9e+de+10+%C3%A0+18+mois." alt="Typing SVG" /></a>
 
 
 J'aime apprendre de nouvelles technologies et réaliser des projets innovants. Je suis passionné par le développement web, le machine learning et l'intelligence artificielle.
@@ -34,7 +34,6 @@ Vous pouvez me contacter par email à l'adresse matteo.cuisset@gmail.com ou via 
 ![Derby](https://img.shields.io/badge/-DerbyJS-black?style=flat-square&logo=derby)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
 
-### ℹ️ Détail :
 Voici quelques-uns des langages et outils que je maîtrise ou que j'apprends :
 
 - CSS : un langage de style pour mettre en forme les pages web.
@@ -48,6 +47,9 @@ Voici quelques-uns des langages et outils que je maîtrise ou que j'apprends :
 - Laravel : un framework PHP, élégant et expressif, qui facilite le développement web.
 - PHP : un langage de programmation côté serveur, populaire et puissant, pour créer des sites web dynamiques
 
+### 🛠 Outils :
+
+##📈 Mes statistiques :
 <div>
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=flyns157&show_icons=true&count_private=true)
