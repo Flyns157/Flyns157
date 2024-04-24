@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&random=true&width=450&lines=%C3%89tudiant+d%C3%A9veloppeur+fullstack" alt="Typing SVG" /></a>
 </h1>
 
-<a href="www.linkedin.com/in/mattéo-cuisset"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=5000&color=F70000&background=FFEB00&center=true&vCenter=true&random=true&width=1100&lines=Actuellement+%C3%A0+la+recherche+d'une+alternance+pour+Janvier+2024+d'une+dur%C3%A9e+de+10+%C3%A0+18+mois." alt="Typing SVG" /></a>
+<a href="www.linkedin.com/in/mattéo-cuisset"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=5000&color=F70000&background=FFEB00&center=true&vCenter=true&random=true&width=1100&lines=Actuellement+%C3%A0+la+recherche+d'une+alternance+pour+septembre+2024." alt="Typing SVG" /></a>
 
 
 J'aime apprendre de nouvelles technologies et réaliser des projets innovants. Je suis passionné par le développement web, le machine learning et l'intelligence artificielle.
