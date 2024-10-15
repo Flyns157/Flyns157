@@ -1,61 +1,48 @@
+[![Annonce](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=5000&color=F70000&background=FFEB00&center=true&vCenter=true&random=true&width=1100&lines=Actuellement+%C3%A0+la+recherche+d'un+stage+pour+mars+2025.)](https://www.linkedin.com/in/mattéo-cuisset)
+
 <h1 align='center'>
-  # Mattéo Cuisset<br>Actuellement Étudiant en BUT Informatique
+  # Mattéo Cuisset
+  
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&random=true&width=450&lines=%C3%89tudiant+d%C3%A9veloppeur+fullstack" alt="Typing SVG" /></a>
 </h1>
 
-<a href="www.linkedin.com/in/mattéo-cuisset"><img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=5000&color=F70000&background=FFEB00&center=true&vCenter=true&random=true&width=1100&lines=Actuellement+%C3%A0+la+recherche+d'une+alternance+pour+septembre+2024." alt="Typing SVG" /></a>
+> [!NOTE]
+> I'm just a web applications and services developer.
+> 
+> I specialise in web applications and data management.
+> I love learning new technologies and doing innovative projects.
+> I'm passionate about web development, machine learning and artificial intelligence.
+> 
+> On this github, you'll find :
+> - School projects
+> - Personal projects to learn and have fun.
 
 
-J'aime apprendre de nouvelles technologies et réaliser des projets innovants. Je suis passionné par le développement web, le machine learning et l'intelligence artificielle.
+> [!NOTE]
+> **My horizon of knowledge**
+> 
+> [![My Languages](https://skillicons.dev/icons?i=ts,python,js,java,php,kotlin)](https://skillicons.dev)
+>
+> [![My framework](https://skillicons.dev/icons?i=flask,fastapi,laravel,spring)](https://skillicons.dev)
+>
+> [![My Python Libraries](https://skillicons.dev/icons?i=pytorch,opencv,selenium)](https://skillicons.dev)
+>
+> [![My BD Tools](https://skillicons.dev/icons?i=sqlite,postgresql,mysql,mongodb,neo4j)](https://skillicons.dev)
+>
+> [![My Format Tools](https://skillicons.dev/icons?i=scss,css,html,md)](https://skillicons.dev)
+>
+> [![My Project Tools](https://skillicons.dev/icons?i=bash,powershell,git,github,githubactions,gitlab,gradle,maven,nodejs,npm,ros,docker,kubernetes,nomad)](https://skillicons.dev)
+>
+> [![My Ides](https://skillicons.dev/icons?i=vscode,idea,phpstorm,pycharm,webstorm,sublime,cursor)](https://skillicons.dev)
+> 
+> [![My OS](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+>
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyns157&layout=compact)
 
-Sur ce github, vous trouverez :
-
-- Mes projets scolaires réalisés en Java, Python, PHP, Laravel, HTML, CSS, MySQL, PostgreSQL, etc.
-- Mes projets personnels que je fais pour me former et me divertir.
 
 ## 💬 Me contactez :
+You can contact me by email at matteo.cuisset@gmail.com or via my [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattéo-cuisset).
 
-Vous pouvez me contacter par email à l'adresse matteo.cuisset@gmail.com ou via mon [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mattéo-cuisset-33b745295).
-
-## Langages et Outils :
-
-### 💻 Technologies:
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/-java-black?style=flat-square&logo=java)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-![Derby](https://img.shields.io/badge/-DerbyJS-black?style=flat-square&logo=derby)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=sass)
-
-Voici quelques-uns des langages et outils que je maîtrise ou que j'apprends :
-
-- CSS : un langage de style pour mettre en forme les pages web.
-- Git : un logiciel de gestion de versions décentralisé qui permet de collaborer sur des projets de code.
-- HTML : un langage de balisage pour structurer les pages web.
-- Java : un langage de programmation orienté objet, polyvalent et performant.
-- Linux : un système d'exploitation libre et open source, basé sur le noyau Unix.
-- MySQL : un système de gestion de bases de données relationnelles, très utilisé pour le web.
-- PostgreSQL : un système de gestion de bases de données relationnelles, robuste et extensible.
-- Python : un langage de programmation interprété, facile à apprendre et à utiliser, avec de nombreuses bibliothèques pour le web, le machine learning, etc.
-- Laravel : un framework PHP, élégant et expressif, qui facilite le développement web.
-- PHP : un langage de programmation côté serveur, populaire et puissant, pour créer des sites web dynamiques
-
-### 🛠 Outils :
-
-##📈 Mes statistiques :
-<div>
-  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=flyns157&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyns157&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=flyns157)
 
-</div>
