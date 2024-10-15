@@ -41,7 +41,7 @@
 
 
 ## 💬 Me contactez :
-You can contact me by email at matteo.cuisset@gmail.com or via my [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattéo-cuisset).
+You can contact me via my [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattéo-cuisset).
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=flyns157)
