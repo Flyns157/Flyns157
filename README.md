@@ -40,7 +40,7 @@
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyns157&layout=compact)
 
 
-## 💬 Contacs me :
+## 💬 Contact me :
 You can contact me via my [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattéo-cuisset).
 
 
