@@ -23,7 +23,7 @@
 > 
 > [![My Languages](https://skillicons.dev/icons?i=ts,python,js,java,php,kotlin)](https://skillicons.dev)
 >
-> [![My framework](https://skillicons.dev/icons?i=flask,fastapi,laravel,spring)](https://skillicons.dev)
+> [![My framework](https://skillicons.dev/icons?i=flask,fastapi,laravel,spring,react)](https://skillicons.dev)
 >
 > [![My Python Libraries](https://skillicons.dev/icons?i=pytorch,opencv,selenium)](https://skillicons.dev)
 >
