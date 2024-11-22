@@ -21,9 +21,9 @@
 > [!NOTE]
 > **My horizon of knowledge**
 > 
-> [![My Languages](https://skillicons.dev/icons?i=ts,python,js,java,php,kotlin)](https://skillicons.dev)
+> [![My Languages](https://skillicons.dev/icons?i=ts,python,js,java,php,kotlin,arduino)](https://skillicons.dev)
 >
-> [![My framework](https://skillicons.dev/icons?i=flask,fastapi,laravel,spring,react)](https://skillicons.dev)
+> [![My framework](https://skillicons.dev/icons?i=flask,fastapi,laravel,spring,react,tailwind,bootstrap)](https://skillicons.dev)
 >
 > [![My Python Libraries](https://skillicons.dev/icons?i=pytorch,opencv,selenium)](https://skillicons.dev)
 >
@@ -33,7 +33,9 @@
 >
 > [![My Project Tools](https://skillicons.dev/icons?i=bash,powershell,git,github,githubactions,gitlab,gradle,maven,nodejs,npm,ros,docker,kubernetes,nomad)](https://skillicons.dev)
 >
-> [![My Ides](https://skillicons.dev/icons?i=vscode,idea,phpstorm,pycharm,webstorm,sublime,cursor)](https://skillicons.dev)
+> [![My helpers](https://skillicons.dev/icons?i=stackoverflow,codepen,discord)](https://skillicons.dev)
+>
+> [![My Ides](https://skillicons.dev/icons?i=vscode,idea,phpstorm,pycharm,webstorm,sublime,androidstudio,cursor)](https://skillicons.dev)
 > 
 > [![My OS](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
 >
