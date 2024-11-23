@@ -7,11 +7,13 @@
 </h1>
 
 > [!NOTE]
-> I'm just a web applications and services developer.
+> I'm just a **web applications and services developer**.
 > 
 > I specialise in web applications and data management.
 > I love learning new technologies and doing innovative projects.
 > I'm passionate about web development, machine learning and artificial intelligence.
+>
+> *See my [CV](/CV-CUISSET-Matteo.pdf).*
 > 
 > On this github, you'll find :
 > - School projects
