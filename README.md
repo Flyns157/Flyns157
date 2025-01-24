@@ -1,13 +1,13 @@
 [![Annonce](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&pause=5000&color=F70000&background=FFEB00&center=true&vCenter=true&random=true&width=1100&lines=Actuellement+%C3%A0+la+recherche+d'un+stage+pour+mars+2025.)](https://www.linkedin.com/in/mattéo-cuisset)
 
 <h1 align='center'>
-  # Mattéo Cuisset
+  # Mattéo Cuisset <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="40" height="40"/>
   
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&center=true&vCenter=true&random=true&width=450&lines=%C3%89tudiant+d%C3%A9veloppeur+fullstack" alt="Typing SVG" /></a>
 </h1>
 
 > [!NOTE]
-> I'm just a **web applications and services developer**.
+> I'm just a **web applications and services developer (**_IT_**)**.
 > 
 > I specialise in web applications and data management.
 > I love learning new technologies and doing innovative projects.
@@ -20,6 +20,7 @@
 > - School projects.
 > - Personal projects to learn and have fun.
 
+> When your work speaks for itself, don't interrupt. - Henry J. Kaiser
 
 > [!NOTE]
 > **My horizon of knowledge**
