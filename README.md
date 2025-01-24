@@ -35,7 +35,7 @@
 >
 > [![My Format Tools](https://skillicons.dev/icons?i=scss,css,html,md)](https://skillicons.dev)
 >
-> [![My Project Tools](https://skillicons.dev/icons?i=bash,powershell,git,github,githubactions,gitlab,nodejs,ros,docker,kubernetes,terraform,nomad,postman)](https://skillicons.dev)
+> [![My Project Tools](https://skillicons.dev/icons?i=bash,powershell,git,github,githubactions,gitlab,nodejs,ros,docker,postman,kubernetes,terraform,nomad,bruno)](https://skillicons.dev)
 >
 > [![My helpers](https://skillicons.dev/icons?i=stackoverflow,codepen,discord)](https://skillicons.dev)
 >
