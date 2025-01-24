@@ -41,7 +41,7 @@
 >
 > [![My Ides](https://skillicons.dev/icons?i=vscode,idea,phpstorm,pycharm,webstorm,sublime,androidstudio,emacs,electron,eclipse,atom,cursor)](https://skillicons.dev)
 > 
-> [![My OS](https://skillicons.dev/icons?i=linux,ubuntu,windows)](https://skillicons.dev)
+> [![My OS](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)
 >
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyns157&layout=compact)
 
