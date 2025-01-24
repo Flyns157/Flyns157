@@ -16,7 +16,8 @@
 > *See my [CV](/CV-CUISSET-Matteo.pdf).*
 > 
 > On this github, you'll find :
-> - School projects
+> - Open Source professionnal projects.
+> - School projects.
 > - Personal projects to learn and have fun.
 
 
@@ -42,13 +43,16 @@
 > [![My Ides](https://skillicons.dev/icons?i=vscode,idea,phpstorm,pycharm,webstorm,sublime,androidstudio,emacs,electron,eclipse,atom,cursor)](https://skillicons.dev)
 > 
 > [![My OS](https://skillicons.dev/icons?i=linux,ubuntu,debian,windows)](https://skillicons.dev)
->
-> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyns157&layout=compact)
+
+> <details style="list-style: none;">
+>   <summary>Github Stats ⚡</summary>
+>   
+>   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=flyns157&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+>   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flyns157&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+> </details>
 
 
-## 💬 Contact me :
-You can contact me via my [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattéo-cuisset).
+## 💬 Contact me on [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattéo-cuisset).
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=flyns157)
-
