@@ -29,7 +29,7 @@
 >
 > [![My Python Libraries](https://skillicons.dev/icons?i=pytorch,opencv,selenium,tensorflow)](https://skillicons.dev)
 >
-> [![My Library Managers](https://skillicons.dev/icons?i=pnpm,uv,npm,gradle,maven)](https://skillicons.dev)
+> [![My Library Managers](https://skillicons.dev/icons?i=pnpm,npm,gradle,maven,uv)](https://skillicons.dev)
 >
 > [![My BD Tools](https://skillicons.dev/icons?i=sqlite,postgresql,mysql,mongodb,cassandra,neo4j)](https://skillicons.dev)
 >
